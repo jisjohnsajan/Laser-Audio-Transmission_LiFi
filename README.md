@@ -16,4 +16,6 @@ Team: Batch 2, Group 1
 
 📦 Includes: Circuit diagrams, component list, working prototype photos, cost breakdown, and full report.
 
+Link To LinkedIn: https://www.linkedin.com/feed/update/urn:li:activity:7396160856138502144/
+
 <img width="1200" height="1200" alt="Laser Photo" src="https://github.com/user-attachments/assets/bf240580-ceab-495a-9d61-3c701891928d" />
