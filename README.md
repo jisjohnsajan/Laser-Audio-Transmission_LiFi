@@ -15,3 +15,5 @@ Institution: Vimal Jyothi Engineering College (Autonomous), Chemperi
 Team: Batch 2, Group 1
 
 📦 Includes: Circuit diagrams, component list, working prototype photos, cost breakdown, and full report.
+
+<img width="1200" height="1200" alt="Laser Photo" src="https://github.com/user-attachments/assets/bf240580-ceab-495a-9d61-3c701891928d" />
